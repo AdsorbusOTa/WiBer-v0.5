@@ -1,4 +1,5 @@
 > Aktuelle Version: **v0.5.0**
+> [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/adsorbusota/wiber-app/branch/main/WiBer_v0-5.py)
 # WiBer – Webtool zur Bewertung von Kältemaschinen
 
 WiBer ist ein Streamlit-basiertes Tool zur Analyse von Kälteleistung, Energieeinsparung und wetterabhängigen Betriebsbedingungen.
