@@ -1,3 +1,4 @@
+> Aktuelle Version: **v0.5.0**
 # WiBer – Webtool zur Bewertung von Kältemaschinen
 
 WiBer ist ein Streamlit-basiertes Tool zur Analyse von Kälteleistung, Energieeinsparung und wetterabhängigen Betriebsbedingungen.
