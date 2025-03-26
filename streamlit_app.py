@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Mar 20 19:12:26 2025
-
+__version__ = "0.5.0"
 @author: otamm
 """
 
